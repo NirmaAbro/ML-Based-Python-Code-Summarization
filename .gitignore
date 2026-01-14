@@ -1,0 +1,17 @@
+# datasets
+data/
+*.json
+
+# trained models
+*.pt
+models/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+
+# OS
+.DS_Store
